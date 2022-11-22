@@ -40,7 +40,7 @@ const Sebastian = {
     </a>
 <p/>
 
-<h1> Pokeapp </h1>
+<h1> DogsApp </h1>
 
 <h3>En este proyecto trabaje por primera vez sintetizando mis conocimientos de Front-End y Back-End.</h3>
 Deployada en Vercel da click ----><a href="https://dogsapp-gules.vercel.app/" target="_blank" rel="noopener noreferrer">Aqui para verla</a> <---
@@ -57,26 +57,26 @@ Deployada en Vercel da click ----><a href="https://dogsapp-gules.vercel.app/" ta
 </ul>
 
 ![]()
-<!-- <img src="./images/Home.png" alt="Home" height="250"/>
-<img src="./images/Lista.png" alt="Lista" height="250"/>
-<img src="./images/Detail.png" alt="Detail" height="250"/>
-<img src="./images/Favorites.png" alt="Favorites" height="250"/> -->
+<img src="./imgs/Landing.png" alt="Landing" height="250"/>
+<img src="./imgs/Home.png" alt="Home" height="250"/>
+<img src="./imgs/Card.png" alt="Detail" height="250"/>
+<img src="./imgs/Form.png" alt="Form" height="250"/>
 <hr/>
 
-<h1> CodeLearn- (In Progress For Perfections) </h1>
+<h1> CompuDevs- (In Progress For Perfections) </h1>
 
-<h3>En este proyecto trabaje fortaleciendo todos los conocimientos previos y sumando nuevas bases de datos y mejorando mis habilidades sociales con el trabajo en equipo formado por: <a href="https://github.com/Agus1510" target="_blank" rel="noopener noreferrer">Agustin Panizza</a>, <a href="https://github.com/cfremoto" target="_blank" rel="noopener noreferrer">Cesar Fernandez</a>, <a href="https://github.com/ChampiMagic" target="_blank" rel="noopener noreferrer">Homero Gazze</a>,<a href="https://github.com/KraosFex" target="_blank" rel="noopener noreferrer">Johan Ferreira</a>.
-Nuestro objetivo principal era fomentar la cultura del mundo TI e interesar tanto a niños como adolescente en el desarrollo web. Buscando crear un entorno educativo digital donde nuestros usuarios puedan familiarizarse con la lógica de programación y en el cual los mismos aprendan los fundamentos básicos sobre la creación de sitios web, usando text basando en videos con enfoque en tematicas de programacion. Una combiacion del proyecto indivdual focalizada en un idea tipo E-commerce.
+<h3>En este proyecto trabaje fortaleciendo todos los conocimientos previos y sumando nuevas bases de datos y mejorando mis habilidades sociales con el trabajo en equipo formado por: <a href="https://github.com/AndresFM18" target="_blank" rel="noopener noreferrer">Andrés Mendoza</a>, <a href="https://github.com/Angiep89" target="_blank" rel="noopener noreferrer">Angie Perdomo</a>, <a href="https://github.com/Frxncoyx" target="_blank" rel="noopener noreferrer">Franco Coronel</a>,<a href="https://github.com/Makami-Yv" target="_blank" rel="noopener noreferrer">Erik Ramírez</a>,<a href="https://github.com/Rodrigo2297" target="_blank" rel="noopener noreferrer">Rodrigo Madona</a>,<a href="https://github.com/williamagz" target="_blank" rel="noopener noreferrer">William García</a>.
+Nuestro objetivo principal en este proyecto fue afianzar nuestros nuestros conocimientos tanto en el back-end como en el front-end, enfocándonos en la idea de crear un E-commerce basado en tecnología, más específicamente componentes de computadoras, aportando una experiencia de usuario óptima y a su vez bastante intuitiva.
 </h3>
 
-Deployada en Vercel, pero actualmente en proceso de perfeccionamiento(por bugs en deploy) da click ----><a href="https://pf-indol.vercel.app" target="_blank" rel="noopener noreferrer">Aqui para verla</a> <---
+Deployada en Vercel, pero actualmente en proceso de perfeccionamiento(por bugs en deploy) da click ----><a href="https://compudevs.vercel.app/" target="_blank" rel="noopener noreferrer">Aqui para verla</a> <---
 <h4> Desarrollada con: </h4>
 
 <ul>
   <h4>|--| FrontEnd |--|</h4>
     <li>React</li>
     <li>Redux</li>
-    <!-- <li>Conectada con Google</li> -->
+    <li>Tailwind css</li>
     <li>Stripe(Para los pagos)</li>250
   <h4>|--| BackEnd |--|</h4>
     <li>NodeJs</li>
@@ -87,12 +87,12 @@ Deployada en Vercel, pero actualmente en proceso de perfeccionamiento(por bugs e
 </ul>
 
 ![]()
-<img src="./images/Inicio.png" alt="Inicio" height="250"/>
-<img src="./images/Rankign.png" alt="Rankign" height="250"/>
-<img src="./images/Detalle.png" alt="Detalle" height="250"/>
-<img src="./images/Cursos.png" alt="Cursos" height="250"/>
+<img src="./images/Landing.png" alt="landing" height="250"/>
+<img src="./images/Home1.png" alt="Home" height="250"/>
 <img src="./images/Card.png" alt="Card" height="250"/>
-<img src="./images/LogIn.png" alt="LogIn" height="250"/>
+<img src="./images/Cart.png" alt="Cart" height="250"/>
+<img src="./images/Register.png" alt="Register" height="250"/>
+<img src="./images/Login.png" alt="Login" height="250"/>
 
 
 <hr/>
@@ -116,18 +116,3 @@ Deployada en Vercel, pero actualmente en proceso de perfeccionamiento(por bugs e
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
 </p>
 <hr/>
-
-<!--
-**valen63/valen63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
