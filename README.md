@@ -1,7 +1,5 @@
-### Hi there 👋
 
-
-![]()<img align="center" src="./images/Background.png" width="100%"  />
+![]()<img align="center" src="./imgs/Background.png" width="100%"  />
 
 
 <h1 align="center"> Hi, My name is Sebastian! 👋 :computer: </h1>
