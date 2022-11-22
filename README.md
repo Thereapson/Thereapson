@@ -1,7 +1,5 @@
-### Hi there 👋
 
-
-![]()<img align="center" src="./images/Background.png" width="100%"  />
+![]()<img align="center" src="./imgs/Background.png" width="100%"  />
 
 
 <h1 align="center"> Hi, My name is Sebastian! 👋 :computer: </h1>
@@ -87,12 +85,12 @@ Deployada en Vercel, pero actualmente en proceso de perfeccionamiento(por bugs e
 </ul>
 
 ![]()
-<img src="./images/Landing.png" alt="landing" height="250"/>
-<img src="./images/Home1.png" alt="Home" height="250"/>
-<img src="./images/Card.png" alt="Card" height="250"/>
-<img src="./images/Cart.png" alt="Cart" height="250"/>
-<img src="./images/Register.png" alt="Register" height="250"/>
-<img src="./images/Login.png" alt="Login" height="250"/>
+<img src="./imgs/LandingPF.png" alt="landing" height="250"/>
+<img src="./imgs/HomePF.png" alt="Home" height="250"/>
+<img src="./imgs/CardPF.png" alt="Card" height="250"/>
+<img src="./imgs/Cart.png" alt="Cart" height="250"/>
+<img src="./imgs/Register.png" alt="Register" height="250"/>
+<img src="./imgs/Login.png" alt="Login" height="250"/>
 
 
 <hr/>
