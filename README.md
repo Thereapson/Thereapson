@@ -22,7 +22,7 @@ const Sebastian = {
 <div>
   <p>
     Soy una persona a la que le gustan los desafios, me gustan mucho los algoritmos, soy joven y tengo mucha energia.
-    Estoy cursando Ingenieria Industrial y haciendo algunos proyectos.  
+    Estoy en el tercer año de Ingeniería Química y haciendo algunos proyectos.  
   </p>
   <strong> Espero que esta breve introduccion demuestre un poco de lo que soy capaz: </strong>
 </div>
